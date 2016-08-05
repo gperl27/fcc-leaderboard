@@ -1,0 +1,3 @@
+var USERS = [
+	{username: "Greg", pastThirty: 400, allTime: 1000}
+];
